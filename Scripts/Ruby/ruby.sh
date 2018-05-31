@@ -11,3 +11,4 @@ rbenv global 2.2.3
 #install bundler
 gem install bundler
 
+#update 2.31
